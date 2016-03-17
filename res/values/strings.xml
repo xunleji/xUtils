@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">xUtils</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="download_label">Download Address</string>
+    <string name="download">Download</string>
+    <string name="stop">Stop</string>
+    <string name="resume">Resume</string>
+    <string name="retry">Retry</string>
+    <string name="remove">Stop</string>
+    <string name="test">Test</string>
+
+</resources>
